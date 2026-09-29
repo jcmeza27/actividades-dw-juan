@@ -1,2 +1,2 @@
-# actividades-dw-juan
+# Actividades en clase Juan Meza
 Este repositorio es creado con el objetivo de realizar actividad en la materia de diseño web.
